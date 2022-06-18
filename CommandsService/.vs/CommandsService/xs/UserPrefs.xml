@@ -1,0 +1,75 @@
+﻿<Properties StartupConfiguration="{F2B021A8-2355-41FB-9343-77FABE9958AC}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CommandsService/Controllers/PlatformsController.cs">
+    <Files>
+      <File FileName="CommandsService/Controllers/PlatformsController.cs" Line="1" Column="1" />
+      <File FileName="../PlatformService/PlatformService/SyncDataServices/Http/ICommandDataClient.cs" Line="8" Column="38" />
+      <File FileName="../PlatformService/PlatformService/SyncDataServices/Http/HttpCommandDataClient.cs" Line="30" Column="37" />
+      <File FileName="../PlatformService/PlatformService/appsettings.Development.json" Line="11" Column="1" />
+      <File FileName="../PlatformService/PlatformService/Program.cs" Line="13" Column="1" />
+      <File FileName="../PlatformService/PlatformService/Controllers/PlatformsController.cs" Line="74" Column="16" />
+      <File FileName="CommandsService/appsettings.Development.json" Line="12" Column="1" />
+      <File FileName="../PlatformService/PlatformService/Dtos/PlatformCreateDto.cs" Line="1" Column="1" />
+      <File FileName="../PlatformService/PlatformService/Pfofiles/PlatformsProfile.cs" Line="20" Column="1" />
+      <File FileName="../PlatformService/PlatformService/Data/PrepDb.cs" Line="19" Column="10" />
+      <File FileName="../PlatformService/PlatformService/Data/AppDbContext.cs" Line="1" Column="1" />
+      <File FileName="../PlatformService/PlatformService/Data/IPlatformRepo.cs" Line="1" Column="1" />
+      <File FileName="../PlatformService/PlatformService/Data/PlatformRepo.cs" Line="1" Column="1" />
+      <File FileName="../PlatformService/PlatformService/Dtos/PlatformReadDto.cs" Line="1" Column="1" />
+      <File FileName="../PlatformService/PlatformService/Properties/launchSettings.json" Line="20" Column="8" />
+      <File FileName="../PlatformService/PlatformService/AsyncDataServices/MessageBusClient.cs" Line="12" Column="32" />
+      <File FileName="../PlatformService/PlatformService/AsyncDataServices/IMessageBusClient.cs" Line="1" Column="1" />
+      <File FileName="CommandsService/Program.cs" Line="17" Column="61" />
+      <File FileName="CommandsService/CommandsService.csproj" Line="29" Column="14" />
+      <File FileName="CommandsService/appsettings.Production.json" Line="4" Column="2" />
+      <File FileName="../PlatformService/PlatformService/appsettings.Production.json" Line="6" Column="2" />
+      <File FileName="CommandsService/Dtos/PlatformPublishedDto.cs" Line="6" Column="16" />
+      <File FileName="CommandsService/Models/Platform.cs" Line="10" Column="20" />
+      <File FileName="CommandsService/Dtos/GenericEventDto.cs" Line="9" Column="1" />
+      <File FileName="CommandsService/Profiles/CommandsProfile.cs" Line="17" Column="76" />
+      <File FileName="CommandsService/Data/ICommandRepo.cs" Line="15" Column="55" />
+      <File FileName="CommandsService/Data/CommandRepo.cs" Line="1" Column="1" />
+      <File FileName="CommandsService/EventProcessing/IEventProcessor.cs" Line="6" Column="37" />
+      <File FileName="CommandsService/EventProcessing/EventProcessor.cs" Line="6" Column="30" />
+      <File FileName="CommandsService/AsyncDataServices/MessageBusSubscriber.cs" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="CommandsService" expanded="True">
+            <Node name="CommandsService" expanded="True">
+              <Node name="AsyncDataServices" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="PlatformsController.cs" selected="True" />
+              </Node>
+              <Node name="EventProcessing" expanded="True" />
+            </Node>
+            <Node name="PlatformService" expanded="True">
+              <Node name="AsyncDataServices" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Dtos" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Pfofiles" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="SyncDataServices" expanded="True">
+                <Node name="Http" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PlatformService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{E73EE899-265F-4EE3-AA84-FF5C466DEEFF}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../CommandsService/CommandsService/Data/AppDbContext.cs">
+    <Files>
+      <File FileName="PlatformService/PlatformService.csproj" Line="20" Column="1" />
+      <File FileName="PlatformService/Models/Platform.cs" Line="8" Column="8" />
+      <File FileName="PlatformService/Data/AppDbContext.cs" Line="18" Column="1" />
+      <File FileName="PlatformService/Program.cs" Line="27" Column="1" />
+      <File FileName="PlatformService/Data/PrepDb.cs" Line="28" Column="52" />
+      <File FileName="PlatformService/appsettings.Production.json" Line="3" Column="3" />
+      <File FileName="PlatformService/appsettings.Development.json" Line="10" Column="39" />
+      <File FileName="../CommandsService/CommandsService/Models/Platform.cs" Line="20" Column="2" />
+      <File FileName="../CommandsService/CommandsService/Models/Command.cs" Line="23" Column="2" />
+      <File FileName="../CommandsService/CommandsService/Data/AppDbContext.cs" Line="14" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="PlatformService" expanded="True">
+            <Node name="CommandsService" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="AppDbContext.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="PlatformService" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PlatformService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
